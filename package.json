@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "bin": {
+    "kafka-cli": "./cli.js"
+  },
+  "scripts": {
+    "cli": "node cli.js"
+  }
+}
